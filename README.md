@@ -4,7 +4,7 @@ This piece of code reads the .xls spreadsheet downloaded from the Accupar LP-80,
 
 Below is the downloaded spreadsheet from the device:
 <p align="center">
-  <img src="(https://user-images.githubusercontent.com/35879739/64437243-f6268400-d093-11e9-8c08-c05914500e45.png">
+  <img src="https://user-images.githubusercontent.com/35879739/64437243-f6268400-d093-11e9-8c08-c05914500e45.png">
 </p>
 
 Below is the outputted .CSV file from the algorithm:
