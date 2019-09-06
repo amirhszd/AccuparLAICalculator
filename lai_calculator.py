@@ -1,12 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Sep  5 12:06:42 2019
-
-@author: Amirh
-"""
-
-# -*- coding: utf-8 -*-
-"""
 Created on Wed Sep  4 10:20:38 2019
 
 @author: Amirh
@@ -168,16 +161,3 @@ class LAI():
         
         A = 0.283+0.785*a-0.159*(a**2)
         self.LAI = ((1-1/(2*K))*self.fb -1)*np.log(self.tau)/(A*(1-0.47*self.fb))
-
-#%%
-filepath = "E:/Projects/Snapbean_Drone_Summer2019/GroundTruth/LAI/LAI_R1.xlsx"        
-lai = LAI(filepath)
-lai.calculate()
-
-filepath = "E:/Projects/Snapbean_Drone_Summer2019/GroundTruth/LAI/LAI_R2.xlsx"        
-lai = LAI(filepath)
-lai.calculate()
-
-
-
-
