@@ -7,7 +7,7 @@ Below is the downloaded spreadsheet from the device:
   <img src="https://user-images.githubusercontent.com/35879739/64437243-f6268400-d093-11e9-8c08-c05914500e45.png">
 </p>
 
-Below is the outputted .CSV file from the algorithm:
+Below is the output .CSV file from the algorithm:
 <p align="center">
   <img src="https://user-images.githubusercontent.com/35879739/64436735-fc683080-d092-11e9-92bd-bb94da12fe88.png">
 </p>
