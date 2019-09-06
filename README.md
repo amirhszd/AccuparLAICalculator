@@ -1,4 +1,17 @@
-# CorrelationMatrix
-R-like correlation matrix based on features and the number of samples. The matrix will give out information about histogram of each variable, how variables are distributed against one another, and Pearson correlation coefficient.
+# Accupar LAI calculator
 
-![sample](https://user-images.githubusercontent.com/35879739/55655557-7d5c8c80-57c2-11e9-9f7c-65d2fccd9ab5.png)
+This piece of code reads the .xls spreadsheet downloaded from the Accupar LP-80, calculated per sample (BLW) LAI and recalculates LAI for the average (SUM) data type and outputs it as a CSV file. The calculation is the same as internal calculation of the LP-80. This code is useful for those who are seeking to know the distribution of their LAI data, rather than just an average.
+
+Below is the downloaded spreadsheet from the device:
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/35879739/64436729-f83c1300-d092-11e9-9a01-c844a64e5ecf.png">
+</p>
+
+Below is the outputted .CSV file from the algorithm:
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/35879739/64436735-fc683080-d092-11e9-92bd-bb94da12fe88.png">
+</p>
+
+
+
+
