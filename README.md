@@ -1,6 +1,6 @@
 # Accupar LAI calculator
 
-This piece of code reads the .xls spreadsheet downloaded from the Accupar LP-80, calculated per sample (BLW) LAI and recalculates LAI for the average (SUM) data type and outputs it as a CSV file. The calculation is the same as internal calculation of the LP-80. This code is useful for those who are seeking to know the distribution of their LAI data, rather than just an average.
+This piece of code reads the .xls spreadsheet downloaded from the Accupar LP-80, calculates per sample (BLW) LAI and recalculates LAI for the average (SUM) data type and outputs it as a CSV file. The calculation is the same as internal calculation of the LP-80. This code is useful for those who are seeking to know the distribution of their LAI data, rather than just an average.
 
 Below is the downloaded spreadsheet from the device:
 <p align="center">
